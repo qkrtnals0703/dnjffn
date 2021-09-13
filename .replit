@@ -1,6 +1,2 @@
 language = "bash"
-<<<<<<< HEAD
-run = "javac -classpath .:/run_dir/junit-4.12.jar:target/dependency/* -d . Bj_2562.java \n java -classpath .:/run_dir/junit-4.12.jar:target/dependency/* Bj_2562"
-=======
-run = "javac -classpath .:/run_dir/junit-4.12.jar:target/dependency/* -d . Bj_10818.java \n java -classpath .:/run_dir/junit-4.12.jar:target/dependency/* Bj_10818"
->>>>>>> 0474a9cba1a7e03c43920a4c0dda0dde7637ce9e
+run = "javac -classpath .:/run_dir/junit-4.12.jar:target/dependency/* -d . Bj_8958.java \n java -classpath .:/run_dir/junit-4.12.jar:target/dependency/* Bj_8958"
