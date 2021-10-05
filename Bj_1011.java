@@ -12,7 +12,7 @@ public class Bj_1011{
     
     for(int i=0; i<T; i++){
       StringTokenizer st = new StringTokenizer(br.readLine()," ");
-      
+     
       int x = Integer.parseInt(st.nextToken());
       int y = Integer.parseInt(st.nextToken());
       
